@@ -1,0 +1,1 @@
+"Sube aquí tus archivos Excel de prueba (Grupos, Instructores, Ambientes y Currículo) para que otros desarrolladores puedan testear el sistema."
