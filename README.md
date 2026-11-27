@@ -36,8 +36,8 @@ tags:
 1. **Cloud Execution:** Simply upload the 4 required Excel files (Groups, Instructors, Environments, Curriculum).
 2. **Local Setup:**
    ```bash
-   pip install -r requisitos.txt
-   streamlit run aplicación.py
+   pip install -r requirements.txt
+   streamlit run app.py
    ```
 
 ## 🚀 Roadmap (Vision)
