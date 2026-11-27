@@ -10,7 +10,7 @@ from io import BytesIO
 # Código completo y corregido
 # ============================================================
 
-st.set_page_config(page_title="SIADA+ Evolución v6.0", layout="wide")
+st.set_page_config(page_title="SIADA+ Evolución v6.1", layout="wide")
 
 
 # ============================================================
@@ -584,7 +584,7 @@ def generar_horario_optimo(
 # INTERFAZ STREAMLIT
 # ============================================================
 
-st.title("📅 SIADA+ Evolución v6.0")
+st.title("📅 SIADA+ Evolución v6.1")
 st.markdown("### Optimizador de Horarios con CP-SAT (Google OR-Tools)")
 
 st.markdown("""
@@ -916,7 +916,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: #888;">
-        <small>SIADA+ Evolución v6.0 - Optimizador de Horarios | Powered by Google OR-Tools CP-SAT</small>
+        <small>SIADA+ Evolución v6.1 - Optimizador de Horarios | Powered by Google OR-Tools CP-SAT</small>
     </div>
     """,
     unsafe_allow_html=True
